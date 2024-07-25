@@ -1,0 +1,637 @@
+day,comida,week number,weekday,vegan,veggie,pescaterian,chicken,egg,beef,pork,carbon point,time,category,group,excercise points,meal,calories,num calories
+16/01/2023,crema zanahoria,3,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,233,carrot cream, 150-200 calories per serving,175
+16/01/2023,merluza con pure,3,monday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake with mashed potatoes, 300-350 calories per serving,325
+17/01/2023,garbanzos,3,tuesday,1,1,1,0,0,0,0,1,30,principal,vegetal,,chickpeas, 150-200 calories per serving,175
+18/01/2023,crema,3,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+18/01/2023,pollo horno,3,wednesday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+18/01/2023,croquetas,3,wednesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+18/01/2023,ensalada,3,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+20/01/2023,crema,3,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+20/01/2023,filete,3,friday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+20/01/2023,patatas fritas,3,friday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+23/01/2023,sopa pasta,4,monday,0,0,0,1,0,0,0,5,25,primero,carbohidrato,195,pasta soup, 150-200 calories per serving,175
+23/01/2023,crema,4,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+23/01/2023,quesadillas,4,monday,0,1,1,0,0,0,0,21,10,principal,carbohidrato,,quesadillas, 300-400 calories per serving,350
+24/01/2023,judias sofrito,4,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,vegetal,,stir-fried green beans, 100-150 calories per serving,125
+25/01/2023,sopa pasta,4,wednesday,0,0,0,1,0,0,0,5,25,primero,carbohidrato,,pasta soup, 150-200 calories per serving,175
+25/01/2023,croquetas,4,wednesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+25/01/2023,ensalada,4,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+25/01/2023,spaghetti bolognesa,4,wednesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+25/01/2023,potaje pescado,4,wednesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+25/01/2023,merluza rebosada,4,wednesday,0,0,1,0,0,0,0,8,20,principal,proteina animal,,battered hake, 250-300 calories per serving,275
+25/01/2023,ensalada,4,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+30/01/2023,crema calabacin,5,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,233,zucchini cream, 100-150 calories per serving,125
+30/01/2023,pollo horno,5,monday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+30/01/2023,brocoli jamon,5,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,broccoli with ham, 150-200 calories per serving,175
+01/02/2023,sopa pasta,5,wednesday,0,0,0,1,0,0,0,5,25,primero,carbohidrato,,pasta soup, 150-200 calories per serving,175
+02/02/2023,crema calabacin,5,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+02/02/2023,filete ternera,5,thursday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,beef fillet, 250-300 calories per serving,275
+02/02/2023,patatas fritas,5,thursday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+02/02/2023,ensalada,5,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+03/02/2023,Sopa,5,friday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+03/02/2023,Tortilla patata,5,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+06/02/2023,sopa,6,monday,0,0,0,1,0,0,0,5,25,primero,proteina animal,239,Soup, 100-150 calories per serving,125
+06/02/2023,guisantes cebolla,6,monday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,peas with onion, 100-150 calories per serving,125
+06/02/2023,huevo frito,6,monday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+06/02/2023,crema puerros,6,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+06/02/2023,salmon horno,6,monday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked salmon, 250-300 calories per serving,275
+06/02/2023,pure patatas espinaca,6,monday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+08/02/2023,guisantes cebolla,6,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,peas with onion, 100-150 calories per serving,125
+08/02/2023,lubina,6,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+08/02/2023,patata cocida,6,wednesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+08/02/2023,salchichas,6,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+08/02/2023,arroz,6,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+08/02/2023,salsa tomate,6,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,tomato sauce, 50-100 calories per serving,75
+09/02/2023,berenjena calabacin horno,6,thursday,1,1,1,0,0,0,0,1,45,acompanamiento,vegetal,,baked eggplant and zucchini, 100-150 calories per serving,125
+09/02/2023,judiones,6,thursday,1,1,1,0,0,0,0,1,20,principal,proteina vegetal,,large beans, 200-250 calories per serving,225
+10/02/2023,crema zanahoria,6,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+10/02/2023,filete ternera,6,friday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,beef fillet, 250-300 calories per serving,275
+10/02/2023,ensalada,6,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+10/02/2023,arroz,6,friday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+15/02/2023,crema zanahoria,7,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,177,carrot cream, 150-200 calories per serving,175
+15/02/2023,lentejas,7,wednesday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+16/02/2023,crema calabaza,7,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,pumpkin cream, 150-200 calories per serving,175
+16/02/2023,lubina,7,thursday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+16/02/2023,ensalada,7,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+16/02/2023,spaghetti bolognesa,7,thursday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+17/02/2023,crema calabaza,7,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,pumpkin cream, 150-200 calories per serving,175
+17/02/2023,lentejas,7,friday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+17/02/2023,pizza,7,friday,0,0,0,0,0,0,1,21,30,principal,carbohidrato,,pizza, 250-300 calories per slice,275
+20/02/2023,solomillo cerdo,8,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,228,pork tenderloin, 200-250 calories per serving,225
+20/02/2023,pure patatas espinaca,8,monday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+21/02/2023,sopa,8,tuesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+21/02/2023,Tortilla patata,8,tuesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+21/02/2023,ensalada,8,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+21/02/2023,menestra,8,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+22/02/2023,crema calabacin,8,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+22/02/2023,pollo horno,8,wednesday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+22/02/2023,sopa,8,wednesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+22/02/2023,quesadillas,8,wednesday,0,1,1,0,0,0,0,21,10,principal,carbohidrato,,quesadillas, 300-400 calories per serving,350
+23/02/2023,spaghetti champinones ajillo,8,thursday,1,1,1,0,0,0,0,1,20,principal,carbohidrato,,spaghetti with garlic mushrooms, 300-400 calories per serving,350
+23/02/2023,potaje espinaca,8,thursday,1,1,1,0,0,0,0,1,35,principal,proteina vegetal,,spinach stew, 150-200 calories per serving,175
+24/02/2023,crema,8,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+24/02/2023,pollo horno,8,friday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+27/02/2023,sopa,9,monday,0,0,0,1,0,0,0,5,25,primero,proteina animal,150,Soup, 100-150 calories per serving,125
+27/02/2023,carne,9,monday,0,0,0,0,0,1,1,89,15,principal,proteina animal,,meat, 250-300 calories per serving,275
+27/02/2023,potaje pescado,9,monday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+28/02/2023,guisantes jamon,9,tuesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+28/02/2023,Tortilla patata,9,tuesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+28/02/2023,ensalada,9,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+28/02/2023,spaghetti bolognesa,9,tuesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+01/03/2023,crema zanahoria,9,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+01/03/2023,merluza,9,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+01/03/2023,patata hervida,9,wednesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+02/03/2023,crema zanahoria,9,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+02/03/2023,brocoli carne,9,thursday,0,0,0,0,0,1,1,89,30,principal,proteina animal,,broccoli with meat, 150-200 calories per serving,175
+03/03/2023,crema zanahoria,9,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+03/03/2023,brocoli carne,9,friday,0,0,0,0,0,1,1,89,30,principal,proteina animal,,broccoli with meat, 150-200 calories per serving,175
+21/03/2023,arroz con tomate,12,tuesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,158,rice with tomato, 200-250 calories per serving,225
+21/03/2023,huevo frito,12,tuesday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+21/03/2023,brocoli patata,12,tuesday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+22/03/2023,sopa pollo,12,wednesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+22/03/2023,guisantes pescado,12,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,peas with fish, 200-300 calories per serving,250
+22/03/2023,patata cocida,12,wednesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+22/03/2023,spaghetti champinones ajillo,12,wednesday,1,1,1,0,0,0,0,1,20,principal,carbohidrato,,spaghetti with garlic mushrooms, 300-400 calories per serving,350
+23/03/2023,lentejas,12,thursday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+23/03/2023,judias pollo,12,thursday,0,0,0,1,0,0,0,5,20,principal,proteina animal,,green beans with chicken, 200-250 calories per serving,225
+24/03/2023,sopa,12,friday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+24/03/2023,filete,12,friday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+24/03/2023,ensalada,12,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+27/03/2023,guisantes jamon,13,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,164,peas with ham, 150-200 calories per serving,175
+28/03/2023,calabacin plancha,13,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,grilled zucchini, 50-100 calories per serving,75
+28/03/2023,judiones,13,tuesday,1,1,1,0,0,0,0,1,20,principal,proteina vegetal,,large beans, 200-250 calories per serving,225
+28/03/2023,arroz con tomate,13,tuesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,rice with tomato, 200-250 calories per serving,225
+28/03/2023,huevo frito,13,tuesday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+29/03/2023,crema,13,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+29/03/2023,solomillo cerdo,13,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,pork tenderloin, 200-250 calories per serving,225
+29/03/2023,pure patatas espinaca,13,wednesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+30/03/2023,crema,13,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+30/03/2023,merluza,13,thursday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+30/03/2023,ensalada,13,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+31/03/2023,crema,13,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+31/03/2023,Tortilla patata,13,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+10/04/2023,sopa pollo,15,monday,0,0,0,1,0,0,0,5,25,primero,proteina animal,98,chicken soup, 150-200 calories per serving,175
+10/04/2023,merluza,15,monday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+10/04/2023,grelos con patata,15,monday,1,1,1,0,0,0,0,1,30,principal,vegetal,,turnip greens with potato, 150-200 calories per serving,175
+10/04/2023,ensalada mixta,15,monday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+11/04/2023,crema zanahoria,15,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+11/04/2023,pollo horno,15,tuesday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+11/04/2023,tortilla patata,15,tuesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+12/04/2023,sopa,15,wednesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+12/04/2023,salmon horno,15,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked salmon, 250-300 calories per serving,275
+12/04/2023,arroz,15,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+13/04/2023,sopa,15,thursday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+13/04/2023,pollo y grelos,15,thursday,0,0,0,1,0,0,0,5,30,principal,proteina animal,,chicken and turnip greens, 200-300 calories per serving,250
+13/04/2023,pasta carbonara,15,thursday,0,0,0,0,0,0,1,13,20,principal,proteina animal,,carbonara pasta, 400-500 calories per serving,450
+14/04/2023,sopa,15,friday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+14/04/2023,Tortilla patata,15,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+14/04/2023,ensalada,15,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+17/04/2023,crema calabacin,16,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,189,zucchini cream, 100-150 calories per serving,125
+17/04/2023,salchichas,16,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+17/04/2023,pure patatas espinaca,16,monday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+17/04/2023,acelgas patatas,16,monday,1,1,1,0,0,0,0,1,30,principal,vegetal,,chard with potatoes, 100-150 calories per serving,125
+18/04/2023,crema,16,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+18/04/2023,merluza,16,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+18/04/2023,guisantes pure,16,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,vegetal,,pea puree, 100-150 calories per serving,125
+18/04/2023,spaghetti bolognesa,16,tuesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+19/04/2023,lentejas,16,wednesday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+19/04/2023,calabacin plancha,16,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,grilled zucchini, 50-100 calories per serving,75
+19/04/2023,judias patata,16,wednesday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,green beans with potato, 100-150 calories per serving,125
+19/04/2023,huevo cocido,16,wednesday,0,0,0,0,1,0,0,3,15,principal,proteina animal,,boiled egg, 70-80 calories per egg,75
+20/04/2023,crema puerros,16,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+20/04/2023,filete pollo,16,thursday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+20/04/2023,pure patatas espinaca,16,thursday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+20/04/2023,lentejas,16,thursday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+21/04/2023,crema puerros,16,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+21/04/2023,brocoli huevo frito,16,friday,0,0,0,0,1,0,0,1,15,principal,proteina animal,,broccoli with fried egg, 150-200 calories per serving,175
+24/04/2023,crema calabaza,17,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,186,pumpkin cream, 150-200 calories per serving,175
+24/04/2023,filete,17,monday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+24/04/2023,ensalada,17,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+24/04/2023,menestra,17,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+24/04/2023,patata refrito,17,monday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,fried potato, 200-250 calories per serving,225
+25/04/2023,crema,17,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+25/04/2023,Tortilla patata,17,tuesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+25/04/2023,ensalada,17,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+25/04/2023,guisantes jamon,17,tuesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+26/04/2023,crema,17,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+26/04/2023,filete lomo,17,wednesday,0,0,0,0,0,0,1,89,15,principal,proteina animal,,loin fillet, 250-300 calories per serving,275
+26/04/2023,pure patatas espinaca,17,wednesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+26/04/2023,spaghetti bolognesa,17,wednesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+27/04/2023,crema puerros,17,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+27/04/2023,filete,17,thursday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+27/04/2023,patatas fritas,17,thursday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+27/04/2023,brocoli patata,17,thursday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+28/04/2023,sopa pollo,17,friday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+28/04/2023,merluza,17,friday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+28/04/2023,pure patatas espinaca,17,friday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+28/04/2023,filete pavo,17,friday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,turkey fillet, 200-250 calories per serving,225
+28/04/2023,ensalada,17,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+03/05/2023,crema zanahoria,18,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,184,carrot cream, 150-200 calories per serving,175
+03/05/2023,merluza,18,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+03/05/2023,guisantes patata,18,wednesday,1,1,1,0,0,0,0,1,30,acompanamiento,vegetal,,peas with potato, 150-200 calories per serving,175
+03/05/2023,croquetas,18,wednesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+03/05/2023,ensalada,18,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+04/05/2023,champinones ajillo,18,thursday,1,1,1,0,0,0,0,1,20,primero,vegetal,,garlic mushrooms, 100-150 calories per serving,125
+04/05/2023,frijoles refritos,18,thursday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,refried beans, 200-250 calories per serving,225
+04/05/2023,judias patata,18,thursday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,green beans with potato, 100-150 calories per serving,125
+05/05/2023,crema,18,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+05/05/2023,filete pollo,18,friday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+05/05/2023,ensalada,18,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+08/05/2023,crema calabacin,19,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,198,zucchini cream, 100-150 calories per serving,125
+08/05/2023,filete,19,monday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+08/05/2023,patatas fritas,19,monday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+08/05/2023,menestra,19,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+08/05/2023,huevo cocido,19,monday,0,0,0,0,1,0,0,3,15,principal,proteina animal,,boiled egg, 70-80 calories per egg,75
+09/05/2023,crema,19,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+09/05/2023,roast beef,19,tuesday,0,0,0,0,0,1,0,89,45,principal,proteina animal,,roast beef, 250-300 calories per serving,275
+09/05/2023,ensalada,19,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+09/05/2023,merluza,19,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+09/05/2023,espinacas salteadas,19,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+10/05/2023,crema,19,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+10/05/2023,pollo horno,19,wednesday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+10/05/2023,brocoli con ajada,19,wednesday,1,1,1,0,0,0,0,1,25,principal,vegetal,,broccoli with garlic sauce, 100-150 calories per serving,125
+11/05/2023,sopa pollo,19,thursday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+11/05/2023,lubina,19,thursday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+11/05/2023,croquetas,19,thursday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+11/05/2023,ensalada,19,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+12/05/2023,sopa,19,friday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+12/05/2023,Tortilla patata,19,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+12/05/2023,ensalada,19,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+16/05/2023,sopa,20,tuesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,226,Soup, 100-150 calories per serving,125
+16/05/2023,merluza,20,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+16/05/2023,guisantes patata,20,tuesday,1,1,1,0,0,0,0,1,30,acompanamiento,vegetal,,peas with potato, 150-200 calories per serving,175
+16/05/2023,ensalada mixta,20,tuesday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+17/05/2023,crema puerros,20,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+17/05/2023,solomillo cerdo,20,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,pork tenderloin, 200-250 calories per serving,225
+17/05/2023,patatas fritas,20,wednesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+17/05/2023,guisantes jamon,20,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+18/05/2023,judias patata,20,thursday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,green beans with potato, 100-150 calories per serving,125
+19/05/2023,champinones ajillo,20,friday,1,1,1,0,0,0,0,1,20,primero,vegetal,,garlic mushrooms, 100-150 calories per serving,125
+19/05/2023,frijoles refritos,20,friday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,refried beans, 200-250 calories per serving,225
+19/05/2023,arroz,20,friday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+22/05/2023,crema zanahoria,21,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,269,carrot cream, 150-200 calories per serving,175
+22/05/2023,filete pavo,21,monday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,turkey fillet, 200-250 calories per serving,225
+22/05/2023,pure patatas espinaca,21,monday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+22/05/2023,menestra,21,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+23/05/2023,crema,21,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+23/05/2023,lubina,21,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+23/05/2023,potaje pescado,21,tuesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+24/05/2023,menestra,21,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+24/05/2023,huevo frito,21,wednesday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+24/05/2023,spaghetti bolognesa,21,wednesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+25/05/2023,crema,21,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+25/05/2023,salmon horno,21,thursday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked salmon, 250-300 calories per serving,275
+25/05/2023,espinacas salteadas,21,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+25/05/2023,ensalada mixta,21,thursday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+26/05/2023,potaje pescado,21,friday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+26/05/2023,ensalada,21,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+29/05/2023,crema calabacin,22,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,192,zucchini cream, 100-150 calories per serving,125
+29/05/2023,filete,22,monday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+29/05/2023,ensalada,22,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+29/05/2023,menestra,22,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+30/05/2023,lentejas,22,tuesday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+30/05/2023,quesadillas,22,tuesday,0,1,1,0,0,0,0,21,10,principal,carbohidrato,,quesadillas, 300-400 calories per serving,350
+30/05/2023,espinacas salteadas,22,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+30/05/2023,patata cocida,22,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+31/05/2023,sopa pollo,22,wednesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+31/05/2023,filete empanado,22,wednesday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,breaded fillet, 300-350 calories per serving,325
+31/05/2023,ensalada,22,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+01/06/2023,sopa pollo,22,thursday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+01/06/2023,arroz,22,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+01/06/2023,salchichas,22,thursday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+01/06/2023,salsa tomate,22,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,tomato sauce, 50-100 calories per serving,75
+02/06/2023,crema zanahoria,22,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+02/06/2023,merluza,22,friday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,hake, 200-250 calories per serving,225
+02/06/2023,espinacas salteadas,22,friday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+02/06/2023,arroz,22,friday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+05/06/2023,crema,23,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,161,cream, 150-200 calories per serving,175
+05/06/2023,filete empanado,23,monday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,breaded fillet, 300-350 calories per serving,325
+05/06/2023,ensalada,23,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+05/06/2023,brocoli patata,23,monday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+06/06/2023,potaje garbanzos,23,tuesday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,chickpea stew, 250-300 calories per serving,275
+06/06/2023,quesadillas,23,tuesday,0,1,1,0,0,0,0,21,10,principal,carbohidrato,,quesadillas, 300-400 calories per serving,350
+06/06/2023,spaghetti bolognesa,23,tuesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+07/06/2023,crema calabacin,23,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+07/06/2023,Tortilla patata,23,wednesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+07/06/2023,ensalada,23,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+07/06/2023,croquetas,23,wednesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+07/06/2023,ensalada,23,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+08/06/2023,potaje pescado,23,thursday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+08/06/2023,Tortilla patata,23,thursday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+08/06/2023,guisantes jamon,23,thursday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+09/06/2023,gazapacho,23,friday,1,1,1,0,0,0,0,1,15,primero,vegetal,,gazpacho, 100-150 calories per serving,125
+09/06/2023,berenjena bolognesa,23,friday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,eggplant bolognese, 200-300 calories per serving,250
+09/06/2023,arroz,23,friday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+12/06/2023,gazapacho,24,monday,1,1,1,0,0,0,0,1,15,primero,vegetal,228,gazpacho, 100-150 calories per serving,125
+12/06/2023,filete pollo,24,monday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+12/06/2023,judias patata,24,monday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,green beans with potato, 100-150 calories per serving,125
+13/06/2023,sopa pollo,24,tuesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+13/06/2023,salmon horno,24,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked salmon, 250-300 calories per serving,275
+13/06/2023,pure patatas espinaca,24,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+13/06/2023,ensalada mixta,24,tuesday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+14/06/2023,crema puerros,24,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+14/06/2023,filete pavo,24,wednesday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,turkey fillet, 200-250 calories per serving,225
+14/06/2023,patatas fritas,24,wednesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+14/06/2023,salchichas,24,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+15/06/2023,sopa,24,thursday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+15/06/2023,lubina,24,thursday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+15/06/2023,ensalada,24,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+16/06/2023,frijoles refritos,24,friday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,refried beans, 200-250 calories per serving,225
+16/06/2023,arroz,24,friday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+16/06/2023,huevo,24,friday,0,0,0,0,1,0,0,3,15,principal,proteina animal,,egg, 70-80 calories per egg,75
+19/06/2023,crema calabacin,25,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,193,zucchini cream, 100-150 calories per serving,125
+19/06/2023,filete pavo,25,monday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,turkey fillet, 200-250 calories per serving,225
+19/06/2023,ensalada,25,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+19/06/2023,brocoli patata,25,monday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+20/06/2023,crema calabacin,25,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+20/06/2023,Tortilla patata,25,tuesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+20/06/2023,ensalada,25,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+20/06/2023,solomillo strogonof,25,tuesday,0,0,0,0,0,0,1,13,30,principal,proteina animal,,stroganoff tenderloin, 300-400 calories per serving,350
+20/06/2023,arroz,25,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+21/06/2023,ensalada,25,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+21/06/2023,filete,25,wednesday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+21/06/2023,patatas fritas,25,wednesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+21/06/2023,judias,25,wednesday,1,1,1,0,0,0,0,1,20,acompanamiento,vegetal,,green beans, 50-100 calories per serving,75
+22/06/2023,crema zanahoria,25,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+22/06/2023,guisantes pescado,25,thursday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,peas with fish, 200-300 calories per serving,250
+22/06/2023,ensalada mixta,25,thursday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+23/06/2023,crema zanahoria,25,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+23/06/2023,guisantes pescado,25,friday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,peas with fish, 200-300 calories per serving,250
+26/06/2023,crema,26,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,290,cream, 150-200 calories per serving,175
+26/06/2023,ensaladilla rusa,26,monday,0,0,1,0,0,0,0,8,35,principal,proteina animal,,Russian salad, 300-400 calories per serving,350
+26/06/2023,judias refrito,26,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,refried beans, 200-250 calories per serving,225
+26/06/2023,lomo sajonia,26,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,Saxon loin, 200-250 calories per serving,225
+27/06/2023,sopa pollo,26,tuesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+27/06/2023,salmon horno,26,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked salmon, 250-300 calories per serving,275
+27/06/2023,esparragos plancha,26,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,grilled asparagus, 50-100 calories per serving,75
+27/06/2023,spaghetti bolognesa,26,tuesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+28/06/2023,sopa pollo,26,wednesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+28/06/2023,salmon horno,26,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked salmon, 250-300 calories per serving,275
+28/06/2023,esparragos plancha,26,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,grilled asparagus, 50-100 calories per serving,75
+28/06/2023,menestra,26,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+28/06/2023,salchichas,26,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+29/06/2023,sopa,26,thursday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+29/06/2023,lubina plancha,26,thursday,0,0,1,0,0,0,0,8,25,principal,proteina animal,,grilled sea bass, 200-250 calories per serving,225
+29/06/2023,ensalada,26,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+30/06/2023,crema puerros,26,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+30/06/2023,lubina,26,friday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+30/06/2023,ensalada,26,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+03/07/2023,crema calabacin,27,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,253,zucchini cream, 100-150 calories per serving,125
+03/07/2023,ensalada pasta,27,monday,0,1,1,0,0,0,0,21,15,principal,carbohidrato,,pasta salad, 300-400 calories per serving,350
+03/07/2023,filete pollo,27,monday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+04/07/2023,filete pavo,27,tuesday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,turkey fillet, 200-250 calories per serving,225
+04/07/2023,menestra,27,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+04/07/2023,salchichas,27,tuesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+04/07/2023,patatas fritas,27,tuesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+05/07/2023,Tortilla patata,27,wednesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+05/07/2023,ensalada,27,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+06/07/2023,Tortilla patata,27,thursday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+06/07/2023,ensalada,27,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+10/07/2023,crema puerros,28,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,213,leek cream, 150-200 calories per serving,175
+10/07/2023,filete pollo,28,monday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+10/07/2023,ensalada,28,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+10/07/2023,macarrones,28,monday,0,0,0,0,0,0,1,13,25,principal,proteina animal,,macaroni, 300-400 calories per serving,350
+11/07/2023,lubina,28,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+11/07/2023,espinacas salteadas,28,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+11/07/2023,arroz,28,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+11/07/2023,ensalada,28,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+11/07/2023,Tortilla patata,28,tuesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+12/07/2023,filete pavo,28,wednesday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,turkey fillet, 200-250 calories per serving,225
+12/07/2023,patatas fritas,28,wednesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+12/07/2023,salchichas,28,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+12/07/2023,judias patata,28,wednesday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,green beans with potato, 100-150 calories per serving,125
+13/07/2023,crema puerros,28,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+13/07/2023,filete empanado,28,thursday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,breaded fillet, 300-350 calories per serving,325
+13/07/2023,arroz,28,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+13/07/2023,espinacas salteadas,28,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+13/07/2023,ensalada,28,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+13/07/2023,croquetas,28,thursday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+14/07/2023,crema calabacin,28,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+14/07/2023,judias huevo frito,28,friday,0,0,0,0,1,0,0,3,20,principal,proteina animal,,green beans with fried egg, 150-200 calories per serving,175
+17/07/2023,lentejas,29,monday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,131,lentils, 200-250 calories per serving,225
+17/07/2023,salteado verduras,29,monday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed vegetables, 100-150 calories per serving,125
+17/07/2023,huevo frito,29,monday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+18/07/2023,crema calabacin,29,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+18/07/2023,filete empanado,29,tuesday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,breaded fillet, 300-350 calories per serving,325
+18/07/2023,patatas fritas,29,tuesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+18/07/2023,croquetas,29,tuesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+18/07/2023,ensalada,29,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+19/07/2023,pollo horno,29,wednesday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+19/07/2023,lentejas,29,wednesday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+20/07/2023,crema calabacin,29,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+20/07/2023,merluza rebosada,29,thursday,0,0,1,0,0,0,0,8,20,principal,proteina animal,,battered hake, 250-300 calories per serving,275
+20/07/2023,ensalada,29,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+20/07/2023,spaghetti carbonara,29,thursday,0,0,0,0,0,0,1,13,30,principal,proteina animal,,spaghetti carbonara, 400-500 calories per serving,450
+21/07/2023,menestra,29,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+21/07/2023,pollo horno,29,friday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+28/08/2023,huevo frito,35,monday,0,0,1,0,1,0,0,3,10,principal,proteina animal,221,fried egg, 70-80 calories per egg,75
+28/08/2023,frijoles refritos,35,monday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,refried beans, 200-250 calories per serving,225
+28/08/2023,arroz,35,monday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+28/08/2023,ensalada mixta,35,monday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+29/08/2023,crema calabacin,35,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+29/08/2023,lubina plancha,35,tuesday,0,0,1,0,0,0,0,8,25,principal,proteina animal,,grilled sea bass, 200-250 calories per serving,225
+29/08/2023,patata cocida,35,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+29/08/2023,guisantes jamon,35,tuesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+30/08/2023,filete pollo,35,wednesday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+30/08/2023,ensalada,35,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+30/08/2023,spaghetti bolognesa,35,wednesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+31/08/2023,crema zanahoria,35,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+31/08/2023,filete,35,thursday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+31/08/2023,pure patatas espinaca,35,thursday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+31/08/2023,pescado horno,35,thursday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked fish, 200-250 calories per serving,225
+31/08/2023,ensalada,35,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+01/09/2023,crema zanahoria,35,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+01/09/2023,berenjena bolognesa,35,friday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,eggplant bolognese, 200-300 calories per serving,250
+04/09/2023,crema zanahoria,36,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,162,carrot cream, 150-200 calories per serving,175
+04/09/2023,solomillo cerdo,36,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,pork tenderloin, 200-250 calories per serving,225
+04/09/2023,arroz,36,monday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+04/09/2023,lentejas,36,monday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+05/09/2023,lomo cerdo adobado,36,tuesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,marinated pork loin, 250-300 calories per serving,275
+05/09/2023,pure patatas espinaca,36,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+05/09/2023,salmon horno,36,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked salmon, 250-300 calories per serving,275
+06/09/2023,crema puerros,36,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+06/09/2023,pollo horno,36,wednesday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+07/09/2023,crema puerros,36,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+07/09/2023,menestra,36,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+07/09/2023,salchichas,36,thursday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+07/09/2023,patata cocida,36,thursday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+07/09/2023,croquetas,36,thursday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+07/09/2023,ensalada,36,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+08/09/2023,champinones ajillo,36,friday,1,1,1,0,0,0,0,1,20,primero,vegetal,,garlic mushrooms, 100-150 calories per serving,125
+08/09/2023,Tortilla patata,36,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+11/09/2023,lubina,37,monday,0,0,1,0,0,0,0,8,30,principal,proteina animal,153,sea bass, 200-250 calories per serving,225
+11/09/2023,arroz,37,monday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+11/09/2023,brocoli con ajada,37,monday,1,1,1,0,0,0,0,1,25,principal,vegetal,,broccoli with garlic sauce, 100-150 calories per serving,125
+12/09/2023,crema calabacin,37,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+12/09/2023,filete,37,tuesday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+12/09/2023,patatas fritas,37,tuesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+12/09/2023,filete,37,tuesday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+12/09/2023,ensalada mixta,37,tuesday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+13/09/2023,salchichas,37,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+13/09/2023,arroz,37,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+13/09/2023,salsa tomate,37,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,tomato sauce, 50-100 calories per serving,75
+13/09/2023,guisantes jamon,37,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+14/09/2023,crema calabacin,37,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+14/09/2023,filete pavo,37,thursday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,turkey fillet, 200-250 calories per serving,225
+14/09/2023,ensalada,37,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+14/09/2023,spaghetti carbonara,37,thursday,0,0,0,0,0,0,1,13,30,principal,proteina animal,,spaghetti carbonara, 400-500 calories per serving,450
+15/09/2023,ensalada garbanzos,37,friday,1,1,1,0,0,0,0,1,25,principal,proteina vegetal,,chickpea salad, 250-300 calories per serving,275
+20/09/2023,crema zanahoria,38,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,100,carrot cream, 150-200 calories per serving,175
+20/09/2023,lubina,38,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+20/09/2023,ensalada,38,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+20/09/2023,brocoli patata,38,wednesday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+21/09/2023,crema zanahoria,38,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+21/09/2023,ensalada garbanzos,38,thursday,1,1,1,0,0,0,0,1,25,principal,proteina vegetal,,chickpea salad, 250-300 calories per serving,275
+21/09/2023,croquetas,38,thursday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+21/09/2023,ensalada,38,thursday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+22/09/2023,crema zanahoria,38,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+22/09/2023,berenjena bolognesa,38,friday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,eggplant bolognese, 200-300 calories per serving,250
+25/09/2023,crema calabacin,39,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,270,zucchini cream, 100-150 calories per serving,125
+25/09/2023,filete,39,monday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+25/09/2023,ensalada,39,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+25/09/2023,menestra,39,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+25/09/2023,patata cocida,39,monday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+25/09/2023,huevos cocido,39,monday,0,0,0,0,1,0,0,3,20,principal,proteina animal,,boiled eggs, 70-80 calories per egg,75
+26/09/2023,frijoles refritos,39,tuesday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,refried beans, 200-250 calories per serving,225
+26/09/2023,arroz,39,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+26/09/2023,huevo,39,tuesday,0,0,0,0,1,0,0,3,15,principal,proteina animal,,egg, 70-80 calories per egg,75
+26/09/2023,croquetas,39,tuesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+26/09/2023,ensalada,39,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+27/09/2023,crema calabacin,39,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+27/09/2023,lubina,39,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+27/09/2023,pure patatas espinaca,39,wednesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+27/09/2023,filete pollo,39,wednesday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+27/09/2023,salteado verduras,39,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed vegetables, 100-150 calories per serving,125
+28/09/2023,crema,39,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+28/09/2023,filete cerdo,39,thursday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,pork fillet, 250-300 calories per serving,275
+28/09/2023,patatas fritas,39,thursday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+28/09/2023,guisantes jamon,39,thursday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+29/09/2023,ensalada mixta,39,friday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+29/09/2023,pollo papillon,39,friday,0,0,0,1,0,0,0,5,30,principal,proteina animal,,butterfly chicken, 200-250 calories per serving,225
+29/09/2023,bonito,39,friday,0,0,1,0,0,0,0,8,20,principal,proteina animal,,tuna, 150-200 calories per serving,175
+29/09/2023,salsa tomate,39,friday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,tomato sauce, 50-100 calories per serving,75
+02/10/2023,crema zanahoria,40,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,182,carrot cream, 150-200 calories per serving,175
+02/10/2023,bonito,40,monday,0,0,1,0,0,0,0,8,20,principal,proteina animal,,tuna, 150-200 calories per serving,175
+02/10/2023,salsa tomate,40,monday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,tomato sauce, 50-100 calories per serving,75
+02/10/2023,merluza horno,40,monday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked hake, 200-250 calories per serving,225
+02/10/2023,ensalada mixta,40,monday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+03/10/2023,filete empanado,40,tuesday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,breaded fillet, 300-350 calories per serving,325
+03/10/2023,patatas fritas,40,tuesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+04/10/2023,brocoli con ajada,40,wednesday,1,1,1,0,0,0,0,1,25,principal,vegetal,,broccoli with garlic sauce, 100-150 calories per serving,125
+04/10/2023,Tortilla patata,40,wednesday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+04/10/2023,ensalada mixta,40,wednesday,0,0,1,0,0,0,0,21,15,principal,vegetal,,mixed salad, 100-200 calories per serving,150
+05/10/2023,crema zanahoria,40,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+05/10/2023,lubina,40,thursday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+05/10/2023,arroz,40,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+05/10/2023,espinacas salteadas,40,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+09/10/2023,crema calabacin,41,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,161,zucchini cream, 100-150 calories per serving,125
+09/10/2023,judias sofrito,41,monday,1,1,1,0,0,0,0,1,20,acompanamiento,vegetal,,stir-fried green beans, 100-150 calories per serving,125
+09/10/2023,salchichas,41,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+09/10/2023,spaghetti bolognesa,41,monday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+10/10/2023,crema calabacin,41,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+10/10/2023,merluza rebosada,41,tuesday,0,0,1,0,0,0,0,8,20,principal,proteina animal,,battered hake, 250-300 calories per serving,275
+10/10/2023,ensalada,41,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+10/10/2023,judias refrito,41,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,refried beans, 200-250 calories per serving,225
+10/10/2023,salchichas,41,tuesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+11/10/2023,arroz,41,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+11/10/2023,tomate,41,wednesday,1,1,1,0,0,0,0,1,10,acompanamiento,vegetal,,tomato, 20-30 calories per tomato,25
+11/10/2023,huevo frito,41,wednesday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+16/10/2023,menestra,42,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,196,stewed vegetables, 100-150 calories per serving,125
+16/10/2023,lentejas,42,monday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+16/10/2023,croquetas,42,monday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+16/10/2023,ensalada,42,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+17/10/2023,crema puerros,42,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+17/10/2023,dorada,42,tuesday,0,0,1,0,0,0,0,8,15,principal,proteina animal,,gilt-head bream, 200-250 calories per serving,225
+17/10/2023,pure patatas espinaca,42,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+17/10/2023,guisantes jamon,42,tuesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+18/10/2023,filete pollo,42,wednesday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+18/10/2023,ensalada,42,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+19/10/2023,crema puerros,42,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+19/10/2023,pollo horno,42,thursday,0,0,0,1,0,0,0,5,45,principal,proteina animal,,roast chicken, 250-300 calories per serving,275
+19/10/2023,lentejas,42,thursday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+20/10/2023,sopa pollo,42,friday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+20/10/2023,guisantes con huevo frito,42,friday,0,0,0,0,1,0,0,3,15,principal,proteina animal,,peas with fried egg, 150-200 calories per serving,175
+23/10/2023,sopa,43,monday,0,0,0,1,0,0,0,5,25,primero,proteina animal,181,Soup, 100-150 calories per serving,125
+23/10/2023,filete,43,monday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+23/10/2023,pure patatas espinaca,43,monday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+24/10/2023,potaje pescado,43,tuesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+24/10/2023,brocoli patata,43,tuesday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+24/10/2023,huevos cocido,43,tuesday,0,0,0,0,1,0,0,3,20,principal,proteina animal,,boiled eggs, 70-80 calories per egg,75
+25/10/2023,crema calabaza,43,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,pumpkin cream, 150-200 calories per serving,175
+25/10/2023,lubina,43,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+25/10/2023,espinacas salteadas,43,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+25/10/2023,arroz,43,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+25/10/2023,guisantes jamon,43,wednesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+26/10/2023,crema habas,43,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,fava bean cream, 150-200 calories per serving,175
+26/10/2023,spaghetti bolognesa,43,thursday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+27/10/2023,crema,43,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+27/10/2023,Tortilla patata,43,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+27/10/2023,ensalada,43,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+30/10/2023,crema zanahoria,44,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,179,carrot cream, 150-200 calories per serving,175
+30/10/2023,merluza rebosada,44,monday,0,0,1,0,0,0,0,8,20,principal,proteina animal,,battered hake, 250-300 calories per serving,275
+30/10/2023,ensalada,44,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+30/10/2023,judias patata,44,monday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,green beans with potato, 100-150 calories per serving,125
+30/10/2023,filete pollo,44,monday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+31/10/2023,crema zanahoria,44,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+31/10/2023,croquetas,44,tuesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+31/10/2023,ensalada,44,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+02/11/2023,sopa pollo,44,thursday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,chicken soup, 150-200 calories per serving,175
+02/11/2023,lomo,44,thursday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,loin, 250-300 calories per serving,275
+02/11/2023,patatas fritas,44,thursday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+02/11/2023,brocoli patata,44,thursday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+03/11/2023,sopa,44,friday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+03/11/2023,lubina,44,friday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+03/11/2023,ensalada,44,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+06/11/2023,sopa,45,monday,0,0,0,1,0,0,0,5,25,primero,proteina animal,37,Soup, 100-150 calories per serving,125
+06/11/2023,filete rebozado,45,monday,0,0,0,0,0,1,0,89,15,principal,proteina animal,,breaded fillet, 300-350 calories per serving,325
+06/11/2023,patatas fritas,45,monday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+06/11/2023,ensalada,45,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+06/11/2023,guisantes jamon,45,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+07/11/2023,sopa,45,tuesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+07/11/2023,merluza horno,45,tuesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,baked hake, 200-250 calories per serving,225
+07/11/2023,espinacas salteadas,45,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+07/11/2023,arroz,45,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+07/11/2023,menestra,45,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+07/11/2023,patata cocida,45,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+07/11/2023,filete pollo,45,tuesday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+08/11/2023,champinones ajillo,45,wednesday,1,1,1,0,0,0,0,1,20,primero,vegetal,,garlic mushrooms, 100-150 calories per serving,125
+08/11/2023,menestra,45,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+08/11/2023,huevo frito,45,wednesday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+09/11/2023,potaje pescado,45,thursday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+09/11/2023,resto champs,45,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,leftover mushrooms, 100-150 calories per serving,125
+13/11/2023,champinones ajillo,46,monday,1,1,1,0,0,0,0,1,20,primero,vegetal,173,garlic mushrooms, 100-150 calories per serving,125
+13/11/2023,potaje pescado,46,monday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+13/11/2023,kale patata refrito,46,monday,1,1,1,0,0,0,0,1,25,principal,vegetal,,kale with fried potatoes, 150-200 calories per serving,175
+14/11/2023,crema puerros,46,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+14/11/2023,filete,46,tuesday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+14/11/2023,patatas fritas,46,tuesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+14/11/2023,croquetas,46,tuesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+14/11/2023,ensalada,46,tuesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+15/11/2023,crema puerros,46,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+15/11/2023,merluza rebosada,46,wednesday,0,0,1,0,0,0,0,8,20,principal,proteina animal,,battered hake, 250-300 calories per serving,275
+15/11/2023,patata cocida,46,wednesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+15/11/2023,potaje pescado,46,wednesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+16/11/2023,crema zanahoria,46,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+16/11/2023,lomo sajonia,46,thursday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,Saxon loin, 200-250 calories per serving,225
+16/11/2023,spaghetti bolognesa,46,thursday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+17/11/2023,crema zanahoria,46,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,carrot cream, 150-200 calories per serving,175
+17/11/2023,Tortilla patata,46,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+17/11/2023,kale patata refrito,46,friday,1,1,1,0,0,0,0,1,25,principal,vegetal,,kale with fried potatoes, 150-200 calories per serving,175
+20/11/2023,frijoles refritos,47,monday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,241,refried beans, 200-250 calories per serving,225
+20/11/2023,arroz,47,monday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+20/11/2023,huevo frito,47,monday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+20/11/2023,brocoli patata,47,monday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+20/11/2023,salchichas,47,monday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,sausages, 250-300 calories per serving,275
+21/11/2023,sopa,47,tuesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+21/11/2023,dorada,47,tuesday,0,0,1,0,0,0,0,8,15,principal,proteina animal,,gilt-head bream, 200-250 calories per serving,225
+21/11/2023,arroz,47,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+21/11/2023,guisantes jamon,47,tuesday,0,0,0,0,0,0,1,13,15,principal,proteina animal,,peas with ham, 150-200 calories per serving,175
+22/11/2023,crema calabacin,47,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,zucchini cream, 100-150 calories per serving,125
+22/11/2023,gallo frito,47,wednesday,0,0,1,0,0,0,0,8,15,principal,proteina animal,,fried rooster, 250-300 calories per serving,275
+22/11/2023,ensalada,47,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+22/11/2023,judias patata,47,wednesday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,green beans with potato, 100-150 calories per serving,125
+23/11/2023,sopa,47,thursday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+23/11/2023,filete,47,thursday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,steak, 250-300 calories per serving,275
+23/11/2023,patatas fritas,47,thursday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+23/11/2023,pollo papillon,47,thursday,0,0,0,1,0,0,0,5,30,principal,proteina animal,,butterfly chicken, 200-250 calories per serving,225
+23/11/2023,espinacas salteadas,47,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+24/11/2023,crema,47,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+24/11/2023,frijoles refritos,47,friday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,refried beans, 200-250 calories per serving,225
+24/11/2023,carne picada/molida,47,friday,0,0,0,0,0,1,1,89,20,principal,proteina animal,,ground/minced meat, 250-300 calories per serving,275
+24/11/2023,arroz,47,friday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+27/11/2023,crema,48,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,176,cream, 150-200 calories per serving,175
+27/11/2023,lentejas,48,monday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+27/11/2023,menestra,48,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,stewed vegetables, 100-150 calories per serving,125
+27/11/2023,patata cocida,48,monday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,boiled potato, 100-150 calories per serving,125
+28/11/2023,crema,48,tuesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+28/11/2023,filete empanado,48,tuesday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,breaded fillet, 300-350 calories per serving,325
+28/11/2023,patatas fritas,48,tuesday,1,1,1,0,0,0,0,1,25,acompanamiento,carbohidrato,,french fries, 300-400 calories per serving,350
+28/11/2023,huevo frito,48,tuesday,0,0,1,0,1,0,0,3,10,principal,proteina animal,,fried egg, 70-80 calories per egg,75
+28/11/2023,coliflor salteada,48,tuesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed cauliflower, 100-150 calories per serving,125
+29/11/2023,crema calabaza,48,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,pumpkin cream, 150-200 calories per serving,175
+29/11/2023,lubina,48,wednesday,0,0,1,0,0,0,0,8,30,principal,proteina animal,,sea bass, 200-250 calories per serving,225
+29/11/2023,espinacas salteadas,48,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed spinach, 100-150 calories per serving,125
+29/11/2023,arroz,48,wednesday,1,1,1,0,0,0,0,1,15,acompanamiento,carbohidrato,,rice, 200-250 calories per serving,225
+29/11/2023,croquetas,48,wednesday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,croquettes, 200-300 calories per serving,250
+29/11/2023,ensalada,48,wednesday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+30/11/2023,crema,48,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+30/11/2023,filete pollo,48,thursday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+30/11/2023,salteado verduras,48,thursday,1,1,1,0,0,0,0,1,15,acompanamiento,vegetal,,sauteed vegetables, 100-150 calories per serving,125
+30/11/2023,lentejas,48,thursday,1,1,1,0,0,0,0,1,45,principal,proteina vegetal,,lentils, 200-250 calories per serving,225
+01/12/2023,crema,48,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+01/12/2023,Tortilla patata,48,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+01/12/2023,ensalada,48,friday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+04/12/2023,crema zanahoria,49,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,190,carrot cream, 150-200 calories per serving,175
+04/12/2023,dorada,49,monday,0,0,1,0,0,0,0,8,15,principal,proteina animal,,gilt-head bream, 200-250 calories per serving,225
+04/12/2023,pure patatas espinaca,49,monday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+04/12/2023,acelgas patatas,49,monday,1,1,1,0,0,0,0,1,30,principal,vegetal,,chard with potatoes, 100-150 calories per serving,125
+05/12/2023,sopa,49,tuesday,0,0,0,1,0,0,0,5,25,primero,proteina animal,,Soup, 100-150 calories per serving,125
+05/12/2023,filete pollo,49,tuesday,0,0,0,1,0,0,0,5,15,principal,proteina animal,,chicken fillet, 200-250 calories per serving,225
+05/12/2023,pure patatas espinaca,49,tuesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+05/12/2023,spaghetti bolognesa,49,tuesday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,spaghetti bolognese, 400-500 calories per serving,450
+07/12/2023,crema,49,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,cream, 150-200 calories per serving,175
+07/12/2023,berenjena bolognesa,49,thursday,0,0,0,0,0,1,1,89,45,principal,proteina animal,,eggplant bolognese, 200-300 calories per serving,250
+07/12/2023,brocoli patata,49,thursday,1,1,1,0,0,0,0,1,35,principal,vegetal,,broccoli with potato, 100-150 calories per serving,125
+11/12/2023,crema puerros,50,monday,0,1,1,0,0,0,0,2,20,primero,vegetal,135,leek cream, 150-200 calories per serving,175
+11/12/2023,filete empanado,50,monday,0,0,0,0,0,1,0,89,20,principal,proteina animal,,breaded fillet, 300-350 calories per serving,325
+11/12/2023,ensalada,50,monday,1,1,1,0,0,0,0,1,15,principal,vegetal,,salad, 100-200 calories per serving,150
+11/12/2023,fideua con calamares,50,monday,0,0,1,0,0,0,0,34,25,principal,proteina animal,,paella with squid, 350-450 calories per serving,400
+12/12/2023,champinones ajillo,50,tuesday,1,1,1,0,0,0,0,1,20,primero,vegetal,,garlic mushrooms, 100-150 calories per serving,125
+12/12/2023,garabanzos con espinaca,50,tuesday,1,1,1,0,0,0,0,1,30,principal,proteina vegetal,,chickpeas with spinach, 150-200 calories per serving,175
+12/12/2023,judias con ajada,50,tuesday,1,1,1,0,0,0,0,1,20,principal,vegetal,,green beans with garlic sauce, 100-150 calories per serving,125
+13/12/2023,crema puerros,50,wednesday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+13/12/2023,emperador,50,wednesday,0,0,1,0,0,0,0,8,15,principal,proteina animal,,swordfish, 200-250 calories per serving,225
+13/12/2023,pure patatas espinaca,50,wednesday,1,1,1,0,0,0,0,1,20,acompanamiento,carbohidrato,,spinach mashed potatoes, 150-200 calories per serving,175
+13/12/2023,macarrones carbonara,50,wednesday,0,0,0,0,0,0,1,13,30,principal,carbohidrato,,carbonara macaroni, 400-500 calories per serving,450
+14/12/2023,crema calabaza,50,thursday,0,1,1,0,0,0,0,2,20,primero,vegetal,,pumpkin cream, 150-200 calories per serving,175
+14/12/2023,judias huevo frito,50,thursday,0,0,0,0,1,0,0,3,20,principal,proteina animal,,green beans with fried egg, 150-200 calories per serving,175
+14/12/2023,potaje pescado,50,thursday,0,0,1,0,0,0,0,8,45,principal,proteina animal,,fish stew, 200-250 calories per serving,225
+15/12/2023,crema puerros,50,friday,0,1,1,0,0,0,0,2,20,primero,vegetal,,leek cream, 150-200 calories per serving,175
+15/12/2023,Tortilla patata,50,friday,0,1,1,0,1,0,0,3,30,principal,proteina animal,,potato omelette, 200-300 calories per serving,250
+24/07/2023,no data,30,none,0,0,0,0,0,0,0,0,0,no data,no data,168,no data, N/A, N/A
+31/07/2023,no data,31,none,0,0,0,0,0,0,0,0,0,no data,no data,155,no data, N/A, N/A
+07/08/2023,no data,32,none,0,0,0,0,0,0,0,0,0,no data,no data,84,no data, N/A, N/A
+14/08/2023,no data,33,none,0,0,0,0,0,0,0,0,0,no data,no data,138,no data, N/A, N/A
+21/08/2023,no data,34,none,0,0,0,0,0,0,0,0,0,no data,no data,410,no data, N/A, N/A
+18/12/2023,no data,51,none,0,0,0,0,0,0,0,0,0,no data,no data,183,no data, N/A, N/A
+25/12/2023,no data,52,none,0,0,0,0,0,0,0,0,0,no data,no data,154,no data, N/A, N/A
